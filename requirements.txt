@@ -1,0 +1,6 @@
+pandas
+prettytable
+pyfiglet
+pystyle
+tqdm
+colorama
