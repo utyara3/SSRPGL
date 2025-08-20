@@ -3,4 +3,5 @@ prettytable
 pyfiglet
 pystyle
 tqdm
+lxml
 colorama
